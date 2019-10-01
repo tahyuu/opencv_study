@@ -4,4 +4,5 @@ opencv study
 ### Install Opencv-python
 ```
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python==3.4.3.18 --user
 ```
